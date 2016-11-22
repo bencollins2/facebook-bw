@@ -1,8 +1,8 @@
-a {
+a, .fbRemindersTitle, .fbReminders strong {
 	color: #333 !important;
 }
 
-button, ._1nc6 ._d97 {
+button, ._1nc6 ._d97, ._2s1x ._2s1y {
 	background-color: #333 !important;
 }
 
@@ -10,18 +10,10 @@ button, ._1nc6 ._d97 {
 	background-color: #777777;
 }
 
-._2s1x ._2s1y {
-	background-color: #333;
-}
-
-.imgWrap i {
-	filter: grayscale(100%);
-}
-
 ._5v0s {
 	color: #333;
 }
 
-img, ._9zc ._2p78._2p78, ._m_1 ._4a0a, ._2p79, ._9-y {
+img, ._9zc ._2p78._2p78, ._m_1 ._4a0a, ._2p79, ._9-y, .fbReminders .fbRemindersIcon, .imgWrap i {
 	filter: grayscale(100%) !important;
 }
