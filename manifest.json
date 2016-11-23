@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "Turn Facebook Black & White",
+  "version": "0.1.0",
+  "description": "Addicted to facebook? Shut off that animal brain by turning it black and white!",
+ 
+  "content_scripts": [{
+    "css": ["facebook-bw.css"]
+    // "js": ["content.js"],
+    // "matches": ["https://blog.lateral.io/*"]
+  }]
+ 
+}

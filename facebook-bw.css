@@ -1,5 +1,9 @@
-a, .fbRemindersTitle, .fbReminders strong, .fbNub._50mz.highlightTab .fbNubButton, .fbNub._50mz .fbNubFlyoutTitlebar {
+a, .fbRemindersTitle, .fbReminders strong, .fbNub._50mz.highlightTab .fbNubButton, ._5a5j ._5a4- {
 	color: #333 !important;
+}
+
+.fbNub._50mz .fbNubFlyoutTitlebar {
+	color: #777 !important;
 }
 
 button, ._1nc6 ._d97, ._2s1x ._2s1y {
@@ -14,6 +18,10 @@ button, ._1nc6 ._d97, ._2s1x ._2s1y {
 	color: #333;
 }
 
-img, ._9zc ._2p78._2p78, ._m_1 ._4a0a, ._2p79, ._9-y, .fbReminders .fbRemindersIcon, .imgWrap i {
+img, ._9zc ._2p78._2p78, ._m_1 ._4a0a, ._2p79, ._9-y, .fbReminders .fbRemindersIcon, .imgWrap i, ._5r69, .sp_x-YammR-ziv_2x.sx_38cafb {
 	filter: grayscale(100%) !important;
+}
+
+path {
+	fill: #333 !important;
 }
