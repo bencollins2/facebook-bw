@@ -10,8 +10,6 @@
   },
   "content_scripts": [{
     "css": ["facebook-bw.css"],
-    // "js": ["content.js"],
     "matches": ["https://www.facebook.com/*"]
-  }]
- 
+  }] 
 }

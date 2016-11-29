@@ -10,7 +10,7 @@ button, ._1nc6 ._d97, ._2s1x ._2s1y {
 	background-color: #333 !important;
 }
 
-._5ugg, ._3z_5 {
+._5ugg, ._3z_5, ._2nlt, ._3olv._2nlt, ._55lp span {
 	background-color: #777777 !important;
 }
 
@@ -18,7 +18,18 @@ button, ._1nc6 ._d97, ._2s1x ._2s1y {
 	color: #333 !important;
 }
 
-img, ._9zc ._2p78._2p78, ._m_1 ._4a0a, ._2p79, ._9-y, .fbReminders .fbRemindersIcon, .imgWrap i, ._5r69, .sp_x-YammR-ziv_2x.sx_38cafb {
+._4jy1, ._4kny ._585- {
+	border-color: black !important;
+}
+
+._1uh- a {
+	color: white !important;
+}
+
+._5afz {
+	color: black !important;
+}
+img, ._9zc ._2p78._2p78, ._m_1 ._4a0a, ._2p79, ._9-y, .fbReminders .fbRemindersIcon, .imgWrap i, ._5r69, .sp_x-YammR-ziv_2x.sx_38cafb, ._4x9_._48-k.UFILinkBright::before, ._sa_ ._48-k.UFILinkBright::before, .sp_eYptPhLV8iL_2x.sx_79c0c3 {
 	filter: grayscale(100%) !important;
 }
 
