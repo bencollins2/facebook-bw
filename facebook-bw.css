@@ -6,7 +6,7 @@ a, .fbRemindersTitle, .fbReminders strong, .fbNub._50mz.highlightTab .fbNubButto
 	color: #777 !important;
 }
 
-button, ._1nc6 ._d97, ._2s1x ._2s1y {
+button, ._1nc6 ._d97, ._2s1x ._2s1y, ._5vsj .UFIRow.UFIUnseenItem:after, ._38de {
 	background-color: #333 !important;
 }
 
@@ -14,7 +14,7 @@ button, ._1nc6 ._d97, ._2s1x ._2s1y {
 	background-color: #777777 !important;
 }
 
-._5v0s {
+._5v0s, .fwb, ._4l_v span {
 	color: #333 !important;
 }
 
@@ -22,14 +22,14 @@ button, ._1nc6 ._d97, ._2s1x ._2s1y {
 	border-color: black !important;
 }
 
-._1uh- a {
+._4kny a, .ego_action button {
 	color: white !important;
 }
 
 ._5afz {
 	color: black !important;
 }
-img, ._9zc ._2p78._2p78, ._m_1 ._4a0a, ._2p79, ._9-y, .fbReminders .fbRemindersIcon, .imgWrap i, ._5r69, .sp_x-YammR-ziv_2x.sx_38cafb, ._4x9_._48-k.UFILinkBright::before, ._sa_ ._48-k.UFILinkBright::before, .sp_eYptPhLV8iL_2x.sx_79c0c3 {
+img, ._9zc ._2p78._2p78, ._m_1 ._4a0a, ._2p79, ._9-y, .fbReminders .fbRemindersIcon, .imgWrap i, ._5r69, .sp_x-YammR-ziv_2x.sx_38cafb, ._4x9_._48-k.UFILinkBright::before, ._sa_ ._48-k.UFILinkBright::before, .sp_eYptPhLV8iL_2x.sx_79c0c3, i.img {
 	filter: grayscale(100%) !important;
 }
 

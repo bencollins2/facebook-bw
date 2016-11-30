@@ -2,7 +2,7 @@
   "manifest_version": 2,
  
   "name": "Turn Facebook Black & White",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Addicted to facebook? Shut off that animal brain by turning it black and white!",
   "browser_action": {
     "default_icon": "icon.png",
